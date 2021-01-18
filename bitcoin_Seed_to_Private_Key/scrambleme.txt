@@ -1,0 +1,8 @@
+house
+car
+family
+home
+cat 
+dog
+tree
+garden
