@@ -1,9 +1,10 @@
-# Bitcoin_Bruters_Toolkit
+# Bitcoin_Bruters_Toolkit [90% complete]
 full suite to turn you seed keys into a private key, bitcoin address, then search for matching wallets with positive balance
 
 step 1)
 
 Import latest database of all known bitcoin accounts with active balances
+https://www.bitkeys.work/faq.php 2.4GB csv file.
 
 step 2)
 
